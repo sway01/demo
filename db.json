@@ -1,17 +1,18 @@
 {
-  [{
-      id: '567890',
-      userName: 'John',
-      ticketCounts: 3,
-      badgeId: '12345',
-      createdAt: '2019-9-5',
+  "scanCard":[
+    {
+      "id": '567890',
+      "userName": 'John',
+      "ticketCounts": 3,
+      "badgeId": '12345',
+      "createdAt": '2019-9-5',
   }, 
   {
-      id: '54321',
-     userName: 'kate',
-     ticketCounts: 5,
-     badgeId: '00000',
-     createdAt: '2019-9-10',
+     "id": '54321',
+     "userName": 'kate',
+     "ticketCounts": 5,
+     "badgeId": '00000',
+     "createdAt": '2019-9-10',
 
   }]
 }
